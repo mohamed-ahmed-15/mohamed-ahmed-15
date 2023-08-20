@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer and Student at Kafr El-Sheikh University.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C#, .Net, Dart, and Flutter, or anything related to Moblie APP Development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
