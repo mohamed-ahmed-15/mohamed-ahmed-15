@@ -13,7 +13,7 @@
 
 - 🏢 I'm an Information Security Engineer and As a IT Department student at Kafr El-Sheikh University.
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C#, CCNA, CCNP, or Networking.
+- 💬 Ask me about my experience in C#, CCNA, MCSA, Networking Track.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
